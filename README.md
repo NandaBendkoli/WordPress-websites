@@ -17,4 +17,3 @@ To build a custom WordPress website from scratch using the Block Editor (Gutenbe
 
 ---
 
-## Theme Structure
