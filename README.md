@@ -1,13 +1,13 @@
 # WordPress-websites
 
-# 🎨 Custom WordPress Theme – Figma to Theme Assignment
+# Custom WordPress Theme – Figma to Theme Assignment
 
-## 📌 Objective
+##  Objective
 To build a custom WordPress website from scratch using the Block Editor (Gutenberg), based on the provided Figma design. This theme includes custom post types and follows WordPress best practices for performance, responsiveness, and clean code.
 
 ---
 
-## ✅ Features Implemented
+##  Features Implemented
 - Custom WordPress theme developed from scratch
 - Responsive homepage layout based on Figma design
 - No use of page builders (only native Block Editor)
@@ -17,4 +17,4 @@ To build a custom WordPress website from scratch using the Block Editor (Gutenbe
 
 ---
 
-## 📁 Theme Structure
+## Theme Structure
